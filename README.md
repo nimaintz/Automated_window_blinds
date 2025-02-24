@@ -1,24 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/l2EJ6P3t)
 # Automated Window Blinds
 
 ## Description: 
-My project aims to automate window roller blinds. The blind will be controlled through wifi by another raspberry pi pico done by my colleague [Rebeca Chiorean](https://github.com/UPB-FILS-MA/project-ChioreanRebeca/blob/main/README.md). The implementation works as follows: the other pico sends a message through wifi that in turn rolls up or down the blinds and blinks a led as a confirmation that it rolled.</br>
+My project aims to automate window roller blinds. The blind will be controlled through wifi by another raspberry pi pico done by my colleague [Rebeca Chiorean](https://github.com/ChioreanRebeca/Pico-Wand). The implementation works as follows: the other pico sends a message through wifi that in turn rolls up or down the blinds and blinks a led as a confirmation that it rolled.</br>
 My project uses 3D printed parts and a custom built prototype of a window to demonstrate how this would work in real life.
 
-<!-- Describe in a few words your project idea. -->
-
 ## Hardware
-
-<!-- Fill out this table with all the hardware components that you mght need.
-
-The format is 
-```
-| [Device](link://to/device) | This is used ... | [price](link://to/store) |
-
-```
-
--->
-
 | Device | Usage | Price |
 |--------|--------|-------|
 | [Rapspberry Pi Pico WH](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) | the microcontroller | [56,23 RON](https://ardushop.ro/ro/home/2819-raspberry-pi-pico-wh.html?search_query=Raspberry+Pi+Pico+WH%2C+Wireless+Headers&results=1031) |
