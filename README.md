@@ -19,8 +19,6 @@ My project uses 3D printed parts and a custom built prototype of a window to dem
 
 ## Links
 
-<!-- Add a few links that got you the idea and that you think you will use for your project -->
-
 1. [3D printed and fully automated Roller Blind Motor](https://imgur.com/a/xuQjH3z)
 2. [Pico Project: Automated window blinds that open at sunrise and close at sunset](https://www.reddit.com/r/raspberrypipico/comments/wbdsz1/pico_project_automated_window_blinds_that_open_at/)
 3. [28BYJ-48 Stepper Motor with Raspberry PI Pico](https://www.youtube.com/watch?v=VM3S9CiyPzY&t=2s)
